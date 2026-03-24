@@ -6,6 +6,9 @@ el pc del cual quiere leer las temperaturas debe tener netdata!
 .py = gui
 --------------------------------------------------------------------------
 puede usar solo el .sh con:
+
 	watch -n 2 "./monitor_pc.sh"
+
 o directamente con gui(pensado para pantalla 3.5" en raspberry pi)
+
 	python3 monitor_pro.py
